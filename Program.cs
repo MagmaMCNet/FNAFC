@@ -1,4 +1,4 @@
-﻿using GameJolt;
+using GameJolt;
 using GameJolt.Objects;
 using GameJolt.Services;
 using Spectre.Console;
